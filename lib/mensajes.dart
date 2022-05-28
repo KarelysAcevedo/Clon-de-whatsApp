@@ -1,3 +1,5 @@
+//Pantalla que muestra lista de conversaciones por medio de un List predefinido 
+
 import 'package:flutter/material.dart';
 import 'contacto.dart';
 
