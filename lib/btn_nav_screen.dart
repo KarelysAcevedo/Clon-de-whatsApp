@@ -15,14 +15,6 @@ import 'llamadas.dart';
 import 'mensajes.dart';
 import 'estados.dart';
 
-/*
-class Argument {
-  final String name;
-  final String content;
-
-  Argument(this.name, this.content);
-}
-*/
 class BottomNavigationScreen extends StatefulWidget {
   const BottomNavigationScreen({Key? key}) : super(key: key);
 
